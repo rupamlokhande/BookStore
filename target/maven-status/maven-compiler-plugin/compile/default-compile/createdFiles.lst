@@ -1,1 +1,7 @@
+exception/ErrorDetails.class
+exception/GlobalExceptionHandler.class
 accelya/BooksStore/BooksStoreApplication.class
+controller/AuthorController.class
+repository/AuthorRepository.class
+model/Author.class
+exception/ResourceNotFoundException.class
